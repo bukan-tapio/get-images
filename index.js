@@ -32,8 +32,8 @@ async function downloadImage(url, filepath) {
 }
 
 async function main() {
-  const userName = "Vxilzie";
-  const cookiss = "./soszm_cookies.json" 
+  const userName = "nick name user";
+  const cookiss = "<cookies path>" 
   let browser;
   try {
     // Buat folder untuk menyimpan media jika belum ada
